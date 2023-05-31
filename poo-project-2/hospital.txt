@@ -1,0 +1,25 @@
+Pessoas no hospital
+Pessoa 1 2008 4903 37.5 false
+Pessoa 2 1957 6329 37.5 true
+Pessoa 3 1350 1191 37.5 false
+EnfermeiroAuxiliar 4 1990 5404 37.5 false Leonardo 5
+Medico 5 1880 5929 37.5 false Alves
+Medico 6 14 6081 37.5 false Pauli
+EnfermeiroEspecialista 7 1220 4945 37.5 false João 15 true
+|
+Pacientes esperando curativo:
+|
+Relatórios
+
+-> Relatório #1
+Nº de pessoas atualmente no hospital: 7. Total: 7
+- Nº Doutores: 2
+- Nº Enfermeiros: 2
+- Nº Pacientes (total): 3
+- Nº de Óbitos: 0
+Total de testes: 0
+- Nº de testes positivos de COVID: 0
+- Nº de testes positivos de HIV: 0
+- Nº de testes positivos de Ébola: 0
+- Rácio de testes positivos: NaN
+|
