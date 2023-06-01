@@ -1,5 +1,5 @@
 # Hospital-DB
-Hospital Database developed in Java for the Oriented Object Programming class.
+Hospital Database developed in <b>Java</b> for the Oriented Object Programming class.
 
 Software: <b> NetBeans IDE </b>
 
